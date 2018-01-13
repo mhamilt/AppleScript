@@ -1,5 +1,7 @@
 # Applescripts
 A wee collection of useful applescripts I've collected over time.
+A really handy codex for python users can be found here
+http://aurelio.net/articles/applescript-vs-python.html
 
 
 ## IPviaEmail
